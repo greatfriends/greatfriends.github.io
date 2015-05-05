@@ -1,0 +1,21 @@
+{
+  "name": "GFDN",
+  "version": "0.1",
+  "homepage": "https://greatfriends.github.io",
+  "authors": [
+    "Suthep Saengwirotjanapat <suthep@gfbd.co.th>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "fontawesome": "~4.3.0"
+  }
+}
